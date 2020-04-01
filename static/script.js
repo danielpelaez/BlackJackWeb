@@ -61,6 +61,6 @@ player['score']+=blackJackGame['cardsMap'][card];
 document.querySelector(player['scoreSpan']).textContent = player['score'];
 }
 
-
+console.log("cambiando para probar commit en github");
 
 
