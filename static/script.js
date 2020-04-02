@@ -63,4 +63,4 @@ document.querySelector(player['scoreSpan']).textContent = player['score'];
 
 console.log("cambiando para probar commit en github");
 
-
+console.log("probando rama_1);
