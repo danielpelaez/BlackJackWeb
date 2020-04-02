@@ -4,6 +4,8 @@
 document.querySelector("#hit-button").addEventListener('click',bjHit);
 document.querySelector("#stand-button").addEventListener('click',bjStand);
 document.querySelector("#deal-button").addEventListener('click',bjDeal);
+let dani;
+let test;
 
 //creo un objeto que tiene los ID de los divs y de los span de cada box
 let blackJackGame ={
